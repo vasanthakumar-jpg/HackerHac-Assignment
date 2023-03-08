@@ -1,0 +1,26 @@
+.s1
+{
+background-color: #36066d;
+color:white;
+font-weight: 800;
+font-size: 30px;
+font-size: 35px;
+font-family: 'Times New Roman', Times, serif;
+height: 35px;
+width: 170px; 
+margin-left: 40px;
+text-decoration: none;
+}
+.s1:hover
+{
+    color: white;
+}
+.s2
+{
+    color: red;
+    width: 200px;
+}
+h3
+{
+    margin-right: 400px;
+}
